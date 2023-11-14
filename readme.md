@@ -27,3 +27,7 @@ You will find the public key for cecile@womenfirstdigital.org here https://drive
 2. Currently, the view referrals section has filters on country and city (filters are visible only if there are more than one countries / cities)
 We need enable search / filters on all columns so that the executives are able to quickly search down the data.
 You need to alter the code to make the view referrals interface better ( Use your creativity )
+
+**Login details to the admin account**
+email: a@d.min
+password: a@d.min
